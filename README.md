@@ -13,6 +13,6 @@ Static GitHub Pages site and matching one-sided business card for a QR-first AI 
 
 ## Current QR Target
 
-`https://LearnAITImeSave.github.io/ai-skills/`
+`https://learnaitimesave.github.io/ai-skills/`
 
 Update the QR target before publishing if the GitHub username or repo slug should be different.
