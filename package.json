@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "node scripts/serve-local.js"
+  },
+  "dependencies": {
+    "qrcode": "^1.5.4"
+  }
+}
