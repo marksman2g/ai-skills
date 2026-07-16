@@ -85,10 +85,15 @@ This is stronger and safer than promising exact pay ranges.
 
 ## Sources To Recheck Periodically
 
-- Constant Contact and small business digital adoption reporting
-- TechRadar business AI adoption and AI skills coverage
-- Business Insider AI jobs and agent workflow reporting
-- Microsoft Learn AI certification pages
-- Google AI Essentials and Google Cloud AI certification pages
-- OpenAI platform and prompting documentation
-- Recent arXiv research on AI skills, AI adoption, and human-AI productivity
+- Times of India, workplace skills gaining importance in the AI job market: https://timesofindia.indiatimes.com/education/news/beyond-degrees-and-grades-these-5-workplace-skills-gaining-importance-in-the-ai-driven-job-market/articleshow/132432150.cms
+- Business Insider, AI-era developer expectations and broader AI tool use: https://www.businessinsider.com/emergent-ceo-vibe-coding-software-engineer-ai-2026-7
+- Business Insider, durable tech skills such as judgment, design, accountability, and model evaluation: https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7
+- TechRadar, agentic AI as a growth engine for SMEs: https://www.techradar.com/pro/agentic-business-the-new-growth-engine-for-smes
+- ITPro, demand growth for developers with AI skills and process automation specialists: https://www.itpro.com/software/development/the-biggest-barrier-to-growth-is-not-access-to-technology-it-is-access-to-the-right-people-demand-for-developers-with-ai-skills-has-surged-597-percent-but-enterprises-are-still-struggling-to-find-the-right-talent
+- OpenAI platform and prompting documentation: https://openai.com/academy/prompting/
+- OpenAI Agents documentation: https://platform.openai.com/docs/guides/agents
+- Microsoft Learn AI certification pages: https://learn.microsoft.com/en-us/credentials/certifications/
+- Google AI Essentials and Google Cloud AI certification pages: https://grow.google/ai-essentials/
+- Johnston et al., "The Shift to Agentic AI: Evidence from Codex": https://arxiv.org/abs/2606.26959
+- Murphy-Hill, Butler, and Savelieva, "Adoption and Impact of Command-Line AI Coding Agents": https://arxiv.org/abs/2607.01418
+- Kang, Ray, and Roychoudhury, "Skills for the future software profession: beyond agentic AI!": https://arxiv.org/abs/2606.21894
